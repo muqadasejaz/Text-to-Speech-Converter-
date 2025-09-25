@@ -1,5 +1,10 @@
 # 🎙️ Text to Speech Converter  
 
+I built a Text-to-Speech Converter back in 2023 using Python 🖥️.
+It converts text into speech with multiple voices and speeds → Simple, fast, and effective.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📌 Overview  
 The **Text to Speech Converter** is a Python-based desktop application built with **Tkinter** that converts written text into spoken words.  
 It provides an easy-to-use graphical interface where users can input text, select voice gender, adjust speed, and instantly hear the audio output.  
